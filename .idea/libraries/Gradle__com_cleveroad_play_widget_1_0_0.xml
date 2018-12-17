@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cleveroad:play-widget-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-widget-1.0.0.aar/5ed7049d229e2e2ba9bb4bb9dc3cf84d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-widget-1.0.0.aar/5ed7049d229e2e2ba9bb4bb9dc3cf84d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cleveroad/play-widget/1.0.0/8bdd8d2906c5f3eb67dc516017591673cb04eaf1/play-widget-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

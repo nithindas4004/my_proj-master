@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cleveroad:audiowidget-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/audiowidget-1.0.0.aar/99d2237bd677280a9570771d598a2a40/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/audiowidget-1.0.0.aar/99d2237bd677280a9570771d598a2a40/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cleveroad/audiowidget/1.0.0/3fa8f80c974ab475e82fc76cf9089ef537be3b76/audiowidget-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

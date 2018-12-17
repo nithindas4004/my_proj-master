@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.clockbyte:admobadapter-1.4.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/admobadapter-1.4.6.aar/4ff020e5c9c5e5c271d6739d3ca5085c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/admobadapter-1.4.6.aar/4ff020e5c9c5e5c271d6739d3ca5085c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.clockbyte/admobadapter/1.4.6/337fc0df939a047758044f496f7f4b6f98c45c0f/admobadapter-1.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

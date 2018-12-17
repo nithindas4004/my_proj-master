@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.alzon.final_ser">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <!-- used for notifing user that he is about to remove widget when he drags it on remove widget icon. -->
+    <!-- This permission granted by default on Android 6.0+ devices. -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.statusAction">
+        <activity android:name=".startpage.start_page">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".homepage.player_activity" />
+        <activity android:name=".homepage.homepage" />
+        <activity android:name=".homepage.player" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".demo.Main4Activity" />
+        <activity
+            android:name=".homepage.Main5Activity"
+            android:label="@string/title_activity_main5"
+            android:theme="@style/AppTheme.statusAction" />
+        <activity android:name=".favorite.favorite_list"></activity>
+    </application>
+
+</manifest>

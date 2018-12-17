@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music</string>
+    <integer-array name="img_id_arr">
+        <item>@drawable/guppybanner</item>
+        <item>@drawable/villan</item>
+        <item>@drawable/ezrabanner</item>
+    </integer-array>
+    <string name="title_activity_main5">Main5Activity</string>
+</resources>
